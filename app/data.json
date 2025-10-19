@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "image": "./person/harits.jpg",
+        "title": "Abdurrahman Al Harits",
+        "Link": "https://sijasatu0.github.io/01_Harits/"
+    },
+    {
+        "id": 2,
+        "image": "./person/adrian.jpg",
+        "title": "Adrian Dwi Oktavian",
+        "Link": "https://sijasatu0.github.io/02_Adrian/"
+    },
+    {
+        "id": 3,
+        "image": "./person/tsaqif.jpg",
+        "title": "Ahmad Tsaqif Abdullah",
+        "Link": "https://sijasatu0.github.io/03_Tsaqif/"
+    },
+    {
+        "id": 4,
+        "image": "./person/lala.jpeg",
+        "title": "Alifa Destina Suhaila",
+        "Link": "https://sijasatu0.github.io/04_Alifa/"
+    },
+    {
+        "id": 5,
+        "image": "./person/alin.jpg",
+        "title": "Alinda Stifani",
+        "Link": "https://sijasatu0.github.io/05_alinda/"
+    },
+    {
+        "id": 6,
+        "image": "./person/kipin.png",
+        "title": "Apuila Nandana Elghozy",
+        "Link": ""
+    },
+    {
+        "id": 7,
+        "image": "./person/arif.jpg",
+        "title": "Arief Arfa Reza Naryama",
+        "Link": "https://sijasatu0.github.io/07_Arif/"
+    },
+    {
+        "id": 8,
+        "image": "./person/kipin.png",
+        "title": "Ariq Hasyidan Saputro",
+        "Link": ""
+    },
+    {
+        "id": 9,
+        "image": "./person/nizar.jpg",
+        "title": "Arvio Ahmad Nizar",
+        "Link": "https://sijasatu0.github.io/09_Nizar/"
+    },
+    {
+        "id": 10,
+        "image": "./person/atha.jpeg",
+        "title": "Atha Rizqan Alfiansyah",
+        "Link": "https://sijasatu0.github.io/10_Atha/"
+    },
+    {
+        "id": 11,
+        "image": "./person/barles.png",
+        "title": "Barry Lesmana",
+        "Link": "https://sijasatu0.github.io/11_Barles/"
+    },
+    {
+        "id": 12,
+        "image": "./person/zora.jpg",
+        "title": "Bernardus Satria Zora Pratama",
+        "Link": "https://sijasatu0.github.io/12_Zora/"
+    },
+    {
+        "id": 13,
+        "image": "./person/bima.jpg",
+        "title": "Bima Alfian Mutaqim",
+        "Link": "https://sijasatu0.github.io/13_Bima/"
+    },
+    {
+        "id": 14,
+        "image": "./person/aziz.jpg",
+        "title": "Caesar Aziiz Legowo",
+        "Link": "https://sijasatu0.github.io/14_Aziz/"
+    },
+    {
+        "id": 15,
+        "image": "./person/ninda.png",
+        "title": "Clarista Ninda Nathania",
+        "Link": "https://sijasatu0.github.io/15_Ninda"
+    },
+    {
+        "id": 16,
+        "image": "./person/dava.png",
+        "title": "Dava Adi Prasetya",
+        "Link": "https://sijasatu0.github.io/16_Dava/"
+    },
+    {
+        "id": 17,
+        "image": "./person/desta.jpg",
+        "title": "Desta Pratama Satriaji",
+        "Link": "https://sijasatu0.github.io/17_Desta/"
+    },
+    {
+        "id": 18,
+        "image": "./person/diaz.jpg",
+        "title": "Diaz Nur Aini",
+        "Link": "https://sijasatu0.github.io/18_Diaz/"
+    },
+    {
+        "id": 19,
+        "image": "./person/dihqan.jpg",
+        "title": "Dihqan Javas Miata",
+        "Link": "https://sijasatu0.github.io/19_Dihqan/"
+    },
+    {
+        "id": 20,
+        "image": "./person/fahrizal.jpg",
+        "title": "Fahrizal Muhamad Ramdani",
+        "Link": "https://sijasatu0.github.io/20_fahrizal/"
+    },
+    {
+        "id": 21,
+        "image": "./person/kipin.png",
+        "title": "Fakhri Ma'ruf Abdul Majid",
+        "Link": "https://sijasatu0.github.io/21_Fakhri/"
+    },
+    {
+        "id": 22,
+        "image": "./person/cello.jpeg",
+        "title": "Farrel Cello Aliviano",
+        "Link": "https://sijasatu0.github.io/22_Cello/"
+    },
+    {
+        "id": 23,
+        "image": "./person/renata.jpg",
+        "title": "Felisha Mediana Renata",
+        "Link": "https://sijasatu0.github.io/23_renata/"
+    },
+    {
+        "id": 24,
+        "image": "./person/fitriana.jpg",
+        "title": "Fitriana Zahra",
+        "Link": "https://sijasatu0.github.io/24_Fitriana/"
+    },
+    {
+        "id": 25,
+        "image": "./person/falas.jpg",
+        "title": "Galih Fadillah Palas",
+        "Link": "https://sijasatu0.github.io/25_Falas/"
+    },
+    {
+        "id": 26,
+        "image": "./person/gilar.jpg",
+        "title": "Gilar Hamongan Kalis",
+        "Link": "https://sijasatu0.github.io/26_Gilar/"
+    },
+    {
+        "id": 27,
+        "image": "./person/hafiz.jpg",
+        "title": "Hafiz Bagus Pramadani",
+        "Link": "https://sijasatu0.github.io/27_Hafiz/"
+    },
+    {
+        "id": 28,
+        "image": "./person/dito.jpg",
+        "title": "Hanung Yudha Rayhandhito",
+        "Link": "https://sijasatu0.github.io/28_Dito/"
+    },
+    {
+        "id": 29,
+        "image": "./person/karima.jpg",
+        "title": "Karima Nur Annisa",
+        "Link": "https://sijasatu0.github.io/29_Karima/"
+    },
+    {
+        "id": 30,
+        "image": "./person/jovanka.jpg",
+        "title": "Lovia Jovanka",
+        "Link": "https://sijasatu0.github.io/30_Jovanka/"
+    },
+    {
+        "id": 31,
+        "image": "./person/luqman.png",
+        "title": "Luqman Syahdan Aulia",
+        "Link": ""
+    },
+    {
+        "id": 32,
+        "image": "./person/saya_4.jpg",
+        "title": "Malvin Pradhypta Eka Saputra",
+        "Link": "https://sijasatu0.github.io/32_Malvin/"
+    },
+    {
+        "id": 33,
+        "image": "./person/rifqi.jpg",
+        "title": "Muhamad Rifqi Juliansyah",
+        "Link": "https://sijasatu0.github.io/33_Rifqi/"
+    },
+    {
+        "id": 34,
+        "image": "./person/daffa.jpeg",
+        "title": "Muhammad Daffa Riskiawan",
+        "Link": "https://sijasatu0.github.io/34_Dafffa/"
+    },
+    {
+        "id": 35,
+        "image": "./person/hafidz.jpg",
+        "title": "Muhammad Hafidz Nur Amrullah",
+        "Link": "https://sijasatu0.github.io/35_Hafidz/"
+    },
+    {
+        "id": 36,
+        "image": "./person/hilmy.jfif",
+        "title": "Muhammad Hilmy Tsakib Aditanaya",
+        "Link": "https://sijasatu0.github.io/36_hilmy/"
+    }
+    
+]
