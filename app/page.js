@@ -22,7 +22,7 @@ export default function Home() {
           <div data-scroll-container>
             <div className="mt-5 flex flex-col w-full min-h-screen justify-center overflow-x-hidden items-center">
               <SplitText 
-                  text="Web Kelas X SIJA 1"
+                  text="X SIJA 1"
                   tag="h1"
                   className="text-4xl md:text-6xl lg:text-8xl font-extrabold text-white"
                   textAlign="center"
